@@ -1,4 +1,8 @@
-# Key-Logger
+# 🔐 Key-Logger
+
+A keylogger—short for keystroke logger—is a tool designed to record keyboard input on a system. In the field of cybersecurity, keyloggers are studied to understand how attackers capture
+sensitive information such as usernames, passwords, and personal data. They can appear as both hardware and software components and are commonly analyzed during security research, digital forensics,
+and malware analysis. But it is mostly used my the malicious users or hackers to steal private and sensitive data.
 
 # Disclaimer: Educational Purpose Only
 
