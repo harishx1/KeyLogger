@@ -4,6 +4,8 @@ A keylogger—short for keystroke logger—is a tool designed to record keyboard
 sensitive information such as usernames, passwords, and personal data. They can appear as both hardware and software components and are commonly analyzed during security research, digital forensics,
 and malware analysis. But it is mostly used my the malicious users or hackers to steal private and sensitive data.
 
+#Note: Desgined for Linux Operating System.
+
 # Disclaimer: Educational Purpose Only
 
 This keylogger script has been developed solely for educational and learning purposes. The intention is to demonstrate programming techniques and cybersecurity concepts, including understanding how certain types of software could potentially be misused.
